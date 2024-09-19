@@ -1,3 +1,2 @@
-wojiushixiaobai/gmssl_nginx:latest
-
---platform=linux/arm64
+wojiushixiaobai/gmssl_nginx
+--platform=linux/arm64  wojiushixiaobai/gmssl_nginx
