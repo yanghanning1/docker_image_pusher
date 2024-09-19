@@ -1,2 +1,2 @@
-wojiushixiaobai/gmssl_nginx
---platform=linux/arm64  wojiushixiaobai/gmssl_nginx
+zengxiangbang/gmssl_nginx:1.25.3_ISG_v2
+--platform=linux/arm64  zengxiangbang/gmssl_nginx
