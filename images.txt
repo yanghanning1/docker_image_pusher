@@ -1,2 +1,2 @@
-zengxiangbang/gmssl_nginx:1.25.3_ISG_v2
+arm64v8/centos:7.9.2009
 --platform=linux/arm64
